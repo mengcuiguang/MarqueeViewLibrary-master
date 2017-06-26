@@ -1,14 +1,11 @@
+原文作者：https://github.com/gongwen/MarqueeViewLibrary
+
 # MarqueeViewDemo
 通过MarqueeFactory来提供各种样式的跑马灯View，
 支持自定义跑马灯ItemView
 
 ### 效果图
-<img src="/screenshot/screen_shot.gif"/>
-
-### 使用
-
-#### Gradle:
-compile 'com.gongwen:marqueelibrary:1.0.4'
+![image](https://github.com/mengcuiguang/MarqueeViewLibrary-master/blob/master/test.gif ) 
 
 #### 属性
 
@@ -80,18 +77,3 @@ public void onStop() {
     marqueeView.stopFlipping();
 }
 </pre>
-License
---
-    Copyright (C) 2016 1798550470@qq.com
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
