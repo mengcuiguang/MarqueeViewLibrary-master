@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarqueeView"><attr format="integer" name="marqueeInterval"/><attr format="integer" name="marqueeAnimDuration"/><attr format="reference" name="marqueeAnimIn"/><attr format="reference" name="marqueeAnimOut"/></declare-styleable>
+    <string name="app_name">MarqueeLibrary</string>
+</resources>

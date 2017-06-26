@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\a230568cc2278f0775afa680a6510f279b7995f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b264f19ff58449c00c03a3da5682d018fd2fe382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\code\MarqueeViewLibrary-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ea9d7d1982f94aff05393f380423ad3c187974c">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d5a758356681eb4abdeac1de74bcd9e017691618\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\e7f2fe15a3aec5d900ab28cf62ec81005954d3d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83b5ceceb4272fa03c549a8746525f8f72fed889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\69f653a9193f8bf0e737c47ea75fb97b913faa69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5838db29ac30d68f43df59f5957f0a8c7c629367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_ffda3ff69f5bc452a1b8f8f85a2979585ec7aa36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\131769d89971a81c77a226c3501c17eef872b156\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2e9e6eacc4ff282787b00bbb343ee9ce6a8765a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\code\MarqueeViewLibrary-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6364b9736be56e279979b36b3716d0293938ce1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\77b8efd11630ecf33a20326bca25cb635dfe7555\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d76709d74d79ea6aa9f55949fcf827bae547420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\5f1c13a92cf40d8b4a2c3014b055e18b5a8e11d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a258d88a8551889e3636c18235cbb3e163180c74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\6055d27a80bf6239e152ec157b6d87c6f823d736\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9b05610e4fc18906dd764daa03154b4d6cf357f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\c997e5b94e64a381d2b5d3d1582d030a6762087a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7f143f897c2a7407fbe70b8695af92f8877cd01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\123456\.android\build-cache\d8d04a7eda62f1b99a2713c3c30acaca99edd020\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\code\MarqueeViewLibrary-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_353c7f6875d05029cbc0d1e1c81c62bc0cdfa849\classes.dex" />
+    </item>
+
+</items>

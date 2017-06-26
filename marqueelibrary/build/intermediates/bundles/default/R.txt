@@ -1,0 +1,12 @@
+int anim bottom_in 0x7f020000
+int anim top_out 0x7f020001
+int attr marqueeAnimDuration 0x7f010001
+int attr marqueeAnimIn 0x7f010002
+int attr marqueeAnimOut 0x7f010003
+int attr marqueeInterval 0x7f010000
+int string app_name 0x7f030000
+int[] styleable MarqueeView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable MarqueeView_marqueeAnimDuration 1
+int styleable MarqueeView_marqueeAnimIn 2
+int styleable MarqueeView_marqueeAnimOut 3
+int styleable MarqueeView_marqueeInterval 0

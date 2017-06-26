@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\123456\.android\build-cache\77b8efd11630ecf33a20326bca25cb635dfe7555\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\123456\.android\build-cache\e7f2fe15a3aec5d900ab28cf62ec81005954d3d4\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\123456\.android\build-cache\5f1c13a92cf40d8b4a2c3014b055e18b5a8e11d7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\123456\.android\build-cache\a230568cc2278f0775afa680a6510f279b7995f0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\123456\.android\build-cache\d8d04a7eda62f1b99a2713c3c30acaca99edd020\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\123456\.android\build-cache\131769d89971a81c77a226c3501c17eef872b156\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\123456\.android\build-cache\c997e5b94e64a381d2b5d3d1582d030a6762087a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\123456\.android\build-cache\6055d27a80bf6239e152ec157b6d87c6f823d736\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\123456\.android\build-cache\69f653a9193f8bf0e737c47ea75fb97b913faa69\output\AndroidManifest.xml:25:5-20
+MERGED from [MarqueeViewLibrary-master:marqueelibrary:unspecified] C:\code\MarqueeViewLibrary-master\marqueelibrary\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.meng.marquee.MainActivity
+ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:11:19-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\123456\.android\build-cache\77b8efd11630ecf33a20326bca25cb635dfe7555\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\123456\.android\build-cache\e7f2fe15a3aec5d900ab28cf62ec81005954d3d4\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\123456\.android\build-cache\5f1c13a92cf40d8b4a2c3014b055e18b5a8e11d7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\123456\.android\build-cache\a230568cc2278f0775afa680a6510f279b7995f0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\123456\.android\build-cache\d8d04a7eda62f1b99a2713c3c30acaca99edd020\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\123456\.android\build-cache\131769d89971a81c77a226c3501c17eef872b156\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\123456\.android\build-cache\c997e5b94e64a381d2b5d3d1582d030a6762087a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\123456\.android\build-cache\6055d27a80bf6239e152ec157b6d87c6f823d736\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\123456\.android\build-cache\69f653a9193f8bf0e737c47ea75fb97b913faa69\output\AndroidManifest.xml:21:5-23:58
+MERGED from [MarqueeViewLibrary-master:marqueelibrary:unspecified] C:\code\MarqueeViewLibrary-master\marqueelibrary\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\123456\.android\build-cache\77b8efd11630ecf33a20326bca25cb635dfe7555\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\code\MarqueeViewLibrary-master\app\src\main\AndroidManifest.xml

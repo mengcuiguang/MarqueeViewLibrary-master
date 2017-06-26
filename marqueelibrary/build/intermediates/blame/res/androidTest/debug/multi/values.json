@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\code\\MarqueeViewLibrary-master\\marqueelibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 51,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "C:\\code\\MarqueeViewLibrary-master\\marqueelibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 51,
+                        "endOffset": 358
+                    }
+                }
+            }
+        ]
+    }
+]

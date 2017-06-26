@@ -1,0 +1,7 @@
+#Mon Jun 26 15:58:28 CST 2017
+base.0=C\:\\code\\MarqueeViewLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5a758356681eb4abdeac1de74bcd9e017691618
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\code\\MarqueeViewLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6364b9736be56e279979b36b3716d0293938ce1a\\classes.dex
+base.1=C\:\\code\\MarqueeViewLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6364b9736be56e279979b36b3716d0293938ce1a
+file.0=C\:\\code\\MarqueeViewLibrary-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d5a758356681eb4abdeac1de74bcd9e017691618\\classes.dex
